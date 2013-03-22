@@ -1,0 +1,20 @@
+#progress-subreport-sum {
+    padding-top:2em;
+    clear:both;
+}
+#progress-subreport-sum h3{
+    margin-bottom:1em;
+    text-decoration:underline;
+}
+#progress-subreport-sum table,td {
+    border: 1px solid black;
+}
+#progress-subreport-sum table{
+    width:50%;
+}
+#progress-subreport-sum table .dt{
+    width:70%;
+}
+#progress-subreport-sum table .dd{
+    width:30%;
+}

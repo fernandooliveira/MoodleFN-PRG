@@ -1,0 +1,34 @@
+/*Activity Subreport*/
+#progress-subreport-act {
+/*padding-top:2em;
+    margin-top:2em;
+    border-top: 2px dotted #000;*/
+    clear:both;
+    page-break-before: always;
+}
+#progress-subreport-act h3{
+    margin-bottom:1em;
+    text-decoration:underline;
+}
+#progress-subreport-form-act {
+    margin-bottom:1em;
+    text-align:right;
+}
+
+#act-sort-select {
+}
+
+#progress-subreport-select-button-act {
+}
+#progress-subreport-act table {
+    border: 1px solid #CCC;
+    width:100%;
+}
+#progress-subreport-act table th{
+    border: 1px solid #CCC;
+    background-color: #666;
+    color: #FFF;
+}
+#progress-subreport-act table td{
+    border: 1px solid #CCC;    
+}

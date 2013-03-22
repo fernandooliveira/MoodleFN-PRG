@@ -1,0 +1,4 @@
+/*Hide the print button*/
+#print-button {
+    display:none;
+}

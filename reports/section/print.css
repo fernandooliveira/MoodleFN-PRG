@@ -1,0 +1,65 @@
+/*Section Subreport*/
+#progress-subreport-sec {
+/*padding-top:2em;
+    margin-top:2em;
+    border-top: 2px dotted #000;*/
+    clear:both;
+    page-break-before: always;
+}
+#progress-subreport-sec h3{
+    /*padding-left:.5em;
+    padding-top:.5em;
+    color:#fff;
+    background-color:#666;*/
+    text-decoration:underline;
+}
+#progress-subreport-sec ul{
+    width:100%;
+    margin:0;
+    padding:0;
+    list-style:none;
+
+}
+#progress-subreport-sec ul li{
+    margin:0;
+    padding:0;
+    height:12em;
+    width:33%;
+    float:left;
+}
+#progress-subreport-sec ul li dl{
+    clear:both;
+    margin:0;
+    padding:0;
+}
+#progress-subreport-sec ul li dl dd{
+margin:0;
+padding:0;
+float:left;
+padding-top:.1em;
+height:1.1em;
+width:10%;
+border:1px solid #666;
+text-align:center;
+font-size:65%;
+}
+#progress-subreport-sec ul li dl dt{
+margin:0;
+padding:0;
+clear:both;
+float:left;
+padding-left:1em;
+padding-top:.1em;
+height:1.1em;
+width:70%;
+border:1px solid #666;
+font-size:65%;
+}
+#progress-subreport-sec ul li h4{
+    padding-left:.5em;
+    padding-bottom:.1em;
+    padding-top:.1em;
+    color:#fff;
+    background-color:#666;
+    width:85%;
+}

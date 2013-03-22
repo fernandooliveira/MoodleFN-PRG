@@ -1,0 +1,54 @@
+#progress-subreport-cat {
+    padding-top:2em;
+    clear:both;
+}
+#progress-subreport-cat h3{
+    margin-bottom:1em;
+    text-decoration:underline;
+}
+
+#progress-subreport-cat .ul {
+    width:100%;
+    text-align:left;
+}
+#progress-subreport-cat .ul .li{
+    margin:top:1em; 
+    text-align:left;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#progress-subreport-cat .ul .li h4{
+    font-weight:bold;
+    font-size:105%;
+    text-align:left;
+    color:#fff;
+    background-color:#666;
+    margin-top:.5em;
+    margin-bottom:0;
+    padding-bottom:0;
+    text-align:center;
+    width:50%;
+    
+}
+#progress-subreport-cat .ul .li .dt{
+    padding: .2em 1em;
+    text-align:right;
+}
+#progress-subreport-cat .ul .li .dd{
+    padding: .2em 1em;
+    text-align:left;
+}
+#progress-subreport-cat .ul .li p{
+    text-align:left;
+}
+#progress-subreport-cat table,td {
+    border: 1px solid black;
+}
+#progress-subreport-sec table{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    padding-top:0;
+}

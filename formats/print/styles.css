@@ -1,0 +1,69 @@
+/*********Global***************/
+/*Progress Report Generator Lib*/
+#progress-select-ui {
+}
+#progress-select-ui h3{
+}
+#progress-report-form {
+}
+#progress-select-ui label{
+}
+#progress-select-ui select{
+}
+#progress-instructions {
+}
+#progress-report-form {
+    padding-top:1em;
+}
+
+.screenreader {
+  display:none;
+  color:red;
+}
+
+#user_select {
+}
+
+#progress-select-button {
+}
+
+#progress-format-list {
+    margin-top:1em;
+}
+#progress-format-list ul{
+    display:inline;
+    padding:0;
+    margin:0;
+    list-style:none;
+    height:2em;
+}
+#progress-format-list ul li{
+    margin:1em;
+    display:block;
+    float:left;
+    font-weight:bold;
+}
+
+#progress-instructions {
+}
+
+/*Print Format*/
+
+#progress-print {
+}
+
+#print-generator {
+}
+
+@media print {
+    print-button {
+        display:none;
+    }
+}
+
+/*Multiple Subreports*/
+.incomplete, .highlight {
+}
+
+.spacer {
+}

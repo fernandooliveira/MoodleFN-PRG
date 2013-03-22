@@ -1,0 +1,1 @@
+Need to add in settings to report class

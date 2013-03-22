@@ -1,0 +1,90 @@
+/*********Global***************/
+/*Progress Report Generator Lib*/
+#progress-select-ui {
+}
+
+#progress-instructions {
+}
+
+#progress-report-form {
+}
+
+.screenreader {
+  display:none;
+  color:red;
+}
+
+#user_select {
+}
+
+#progress-select-button {
+}
+
+#progress-format-list {
+}
+
+#progress-instructions {
+}
+
+/*********Formatters****************/
+
+/*Email Format Configuration Form*/
+#progress-email-status {
+}
+
+#progress-email-ui {
+}
+
+#progress-report-form-email {
+}
+
+#progress-select-submit-email {
+}
+
+/*Print Format*/
+
+#progress-print {
+}
+
+#print-generator {
+}
+
+@media print {
+    print-button {
+        display:none;
+    }
+}
+
+/*********Subreports***************/
+
+/*Multiple Subreports*/
+.incomplete, .highlight {
+}
+
+/*Activity Subreport*/
+#progress-subreport-act {
+}
+
+#progress-subreport-form-act {
+}
+
+#act-sort-select {
+}
+
+#progress-subreport-select-button-act {
+}
+
+.spacer {
+}
+
+/*Category Subreport*/
+#progress-subreport-cat {
+}
+
+/*Summary Subreport*/
+#progress-subreport-sum {
+}
+
+/*Section Subreport*/
+#progress-subreport-sec {
+}
